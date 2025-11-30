@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.xml
+*.xlsx
+!sample_manifest.xlsx
+test_batch_output/
+.env
+.venv
+venv/
